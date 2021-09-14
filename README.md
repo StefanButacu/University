@@ -2,12 +2,12 @@
 
 1. Year 1
    - Semester 1
-     - Fundamentals of programming
-     - Computer system arhitecture
+     - Fundamentals of Programming
+     - Computer System Architecture
    - Semester 2
      - Object oriented programming
-     - Operating systems
-     - Graph algorithms
-     - Data structures and algorithms
+     - Operating Systems 
+     - Graph Algorithms
+     - Data Structures And Algorithms
 2. Year 2
    - tbd  
