@@ -18,5 +18,5 @@
    - Semester 1
       - [Web Programming]()
       - [Software Engineering](https://github.com/StefanButacu/Software_Engineering-Bug_Management)
-      - [Database 2]()
+      - [Database 2](https://github.com/StefanButacu/Databases2)
       - [Artificial Intelligence](https://github.com/StefanButacu/Artificial-Intelligence)  
