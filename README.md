@@ -19,4 +19,4 @@
       - [Web Programming]()
       - [Software Engineering](https://github.com/StefanButacu/Software_Engineering-Bug_Management)
       - [Database 2]()
-      - [Artificial Intelligence]()  
+      - [Artificial Intelligence](https://github.com/StefanButacu/Artificial-Intelligence)  
