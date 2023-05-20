@@ -20,3 +20,13 @@
       - [Software Engineering](https://github.com/StefanButacu/Software_Engineering-Bug_Management)
       - [Database 2](https://github.com/StefanButacu/Databases2)
       - [Artificial Intelligence](https://github.com/StefanButacu/Artificial-Intelligence)  
+3. Year 3
+   - Semester 1
+      - [Computer vision and Deel Learning]()  
+      - [Formal Languages and Compiler Design]()
+      - [Parallel and Distributed Programming]()
+      
+   - Semester 2
+      - [Artificial Intelligence Models for Climate Change]()
+      - [Desing Patterns]()
+      - [Numerical Calculus]()  
